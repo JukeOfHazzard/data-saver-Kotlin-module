@@ -1,5 +1,8 @@
 /**/
 import java.util.Random /*this will give the */
+fun randomizer(){
+
+}
 
 class spell(r: Int, type: String, id: String){
     private val range : Int = r
@@ -16,5 +19,8 @@ fun main(args: Array<String>) {
     println("Hello World!")
     val fire = spell(120, "fire","Fire Bolt") /*note that strings can't use the single quotes to show*/
     val ice = spell(60, "cold","Frost Ray")
+    val bolt = spell(30,"lightning","Witch Bolt")
+    //val heal = spell(0,"radiant", "Cure Wounds")
+
     val enemy = encounter()
 }
