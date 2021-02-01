@@ -19,8 +19,11 @@
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Making a random number](https://www.techiedelight.com/generate-random-numbers-between-specified-range-kotlin/)
+* [Learning to call things from classes](https://kotlinlang.org/docs/reference/properties.html)
+* [Making lists](https://stackoverflow.com/questions/50318936/how-to-create-list-in-kotlin)
+* [Getting random things from a list](https://stackoverflow.com/questions/47850156/get-a-random-item-from-list-using-kotlin-streams)
+* []()
 
 # Future Work
 
