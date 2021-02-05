@@ -1,5 +1,5 @@
 import java.util.Random /*this will give the */
-import java.util.Scanner /*helps make the random generator possible*/
+import java.util.Scanner
 
 fun randomInt(): Int{
     return (0..200).random()
